@@ -1,10 +1,10 @@
-{import { Component } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
   templateUrl: './app.component.html',
   styleUrls: [ './app.component.css' ]
 })
-import class App Component  {
+import class App Component  
   name = 'Jay';
-}
+
